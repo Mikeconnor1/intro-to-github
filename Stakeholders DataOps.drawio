@@ -4,31 +4,31 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="q3ki0MDmvYywJqr9N5SQ-1" value="Core / Exec Team" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="q3ki0MDmvYywJqr9N5SQ-1" value="Core / Exec Team" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="200" y="120" width="120" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="q3ki0MDmvYywJqr9N5SQ-2" value="Finance / People Team" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="q3ki0MDmvYywJqr9N5SQ-2" value="Finance / People Team" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="340" y="120" width="120" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="q3ki0MDmvYywJqr9N5SQ-3" value="Users" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="q3ki0MDmvYywJqr9N5SQ-3" value="Users" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="200" y="260" width="120" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="q3ki0MDmvYywJqr9N5SQ-4" value="BI Team" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="q3ki0MDmvYywJqr9N5SQ-4" value="BI Team" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="340" y="260" width="120" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="q3ki0MDmvYywJqr9N5SQ-5" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="q3ki0MDmvYywJqr9N5SQ-5" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="160" y="420" as="sourcePoint" />
             <mxPoint x="460" y="420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="q3ki0MDmvYywJqr9N5SQ-6" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="q3ki0MDmvYywJqr9N5SQ-6" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="160" y="120" as="sourcePoint" />
             <mxPoint x="160" y="420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="q3ki0MDmvYywJqr9N5SQ-7" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="q3ki0MDmvYywJqr9N5SQ-7" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="330" y="380" as="sourcePoint" />
             <mxPoint x="330" y="120" as="targetPoint" />
@@ -37,7 +37,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="q3ki0MDmvYywJqr9N5SQ-8" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="q3ki0MDmvYywJqr9N5SQ-8" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="460" y="250" as="sourcePoint" />
             <mxPoint x="200" y="250" as="targetPoint" />
@@ -46,23 +46,35 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="q3ki0MDmvYywJqr9N5SQ-9" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="q3ki0MDmvYywJqr9N5SQ-9" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="400" y="420" as="sourcePoint" />
             <mxPoint x="460" y="420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="q3ki0MDmvYywJqr9N5SQ-11" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="q3ki0MDmvYywJqr9N5SQ-11" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="160" y="190" as="sourcePoint" />
             <mxPoint x="160" y="120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="q3ki0MDmvYywJqr9N5SQ-12" value="Interest" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="q3ki0MDmvYywJqr9N5SQ-12" value="Interest" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="210" y="450" width="210" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="q3ki0MDmvYywJqr9N5SQ-13" value="Power" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
+        <mxCell id="q3ki0MDmvYywJqr9N5SQ-13" value="Power" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" parent="1" vertex="1">
           <mxGeometry x="80" y="170" width="30" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="bN1va9YgP5Zez_Q__GFa-2" value="&lt;b&gt;Emergency Changes:&lt;/b&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Need to involve the BI Team and the Finance / People Teams and inform the Core / Exec Teams&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="40" width="250" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="bN1va9YgP5Zez_Q__GFa-3" value="&lt;b&gt;Normal Changes:&lt;/b&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Need to involve the BI Team - but inform the Finance / People Teams&amp;nbsp;&amp;nbsp;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="170" width="250" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="bN1va9YgP5Zez_Q__GFa-4" value="&lt;b&gt;Standard Changes:&lt;/b&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Need to involve the BI Team&amp;nbsp;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="300" width="250" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="bN1va9YgP5Zez_Q__GFa-5" value="All changes need to be communicated to all Teams but explained clearly to all non-technical speaking people." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="420" width="250" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
